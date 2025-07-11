@@ -1,0 +1,2 @@
+//classing
+class BaseClass {}
